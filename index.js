@@ -7,7 +7,7 @@ happyHolidays();
 function happyHolidaysTo(){
   return `Happy holidays, ${name}!`;
 }
-happyHolidaysTo(you)
+happyHolidaysTo(nodejs)
 
 function happyHolidayTo(holiday,name){
   return `Happy ${holiday}, ${name}!`;
